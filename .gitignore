@@ -1,1 +1,6 @@
 /target
+*.key
+*.bin
+*.idx
+/out
+serve.rs
